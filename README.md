@@ -45,9 +45,9 @@ To evaluate and improve the operational performance of the call centre in year 2
 - Top spenders: John Doe, Sarah Lee, Priya Sharma ($1,200–$1,500+).
 
 - ## Summary
-•	• October was the most challenging month (low CSAT, high AHT & abandonment).
-•	• March, April & June performed best across metrics.
-•	• Agent A and E are top performers.
-•	• Training opportunity identified for Agent C.
-•	• FCR, CSAT, and AHT are tightly linked—improving one may influence others.
+- October was the most challenging month (low CSAT, high AHT & abandonment).
+- March, April & June performed best across metrics.
+- Agent A and E are top performers.
+- Training opportunity identified for Agent C.
+- FCR, CSAT, and AHT are tightly linked—improving one may influence others.
 
