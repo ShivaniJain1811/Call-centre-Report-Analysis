@@ -26,3 +26,28 @@ To evaluate and improve the operational performance of the call centre in year 2
 
 ## Dashboard
 -![Screenshot of call centre dashboard](https://github.com/user-attachments/assets/33748a70-728d-401d-8a38-b4594d3a09cb)
+
+## Insights from Dashboard
+- August & September had the highest call volume (>1,800 calls).
+- October had the highest AHT (~9.5 mins); May had the lowest (~6 mins).
+- Service level dropped to 72% in July; peaked above 85% in March & November.
+- Abandonment rate peaked at ~9% in July & October; lowest in February (~3%).
+- FCR dropped to 76% in October; peaked at 89% in March & June.
+- CSAT was lowest in October (82%) and highest in April/September (90%).
+- Agent A had top FCR and CSAT; Agent C had lowest performance.
+- 64% of calls were resolved; 25% required transfer or callback.
+- Country A: Female callers ~60% – suggests service messaging can be women-focused.
+- Country B: Balanced 50-50 split – generalist support strategies are appropriate.
+- Country C: Male callers ~65% – male-dominated communication may be more effective.
+- Country X (e.g., USA) shows highest spend, with several customers >$1,000.
+- Country Y (e.g., UK): Moderate, consistent spend – ideal for retention strategies.
+- Country Z (e.g., India): Lower per-customer spend, higher volume – potential for scaling.
+- Top spenders: John Doe, Sarah Lee, Priya Sharma ($1,200–$1,500+).
+
+- ## Summary
+•	• October was the most challenging month (low CSAT, high AHT & abandonment).
+•	• March, April & June performed best across metrics.
+•	• Agent A and E are top performers.
+•	• Training opportunity identified for Agent C.
+•	• FCR, CSAT, and AHT are tightly linked—improving one may influence others.
+
