@@ -5,7 +5,7 @@ To evaluate and improve the operational performance of the call centre in year 2
 ## Dataset used
 - <a href="https://github.com/ShivaniJain1811/Call-centre-Report-Analysis-2023/blob/main/call%20centre%20report%20analysis%20project.xlsx">Dataset</a>
 
-## Questions addressed
+## Questions addressed(KPIs)
 -•	What are the trends in call volumes, both weekly and monthy?
 -•	Are we consistently meeting service levels?
 -•	How efficient are our agents (AHT)?
